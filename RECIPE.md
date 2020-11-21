@@ -1,5 +1,3 @@
-# ChocolateCake
-
 INSTRUCTIONS
 
 The Most Amazing Chocolate Cake
